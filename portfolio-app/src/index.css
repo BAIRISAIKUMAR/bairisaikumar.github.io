@@ -843,6 +843,7 @@ textarea.form-control {
   height: 380px;
   border-radius: 50%;
   object-fit: cover;
+  object-position: top;
   display: block;
 }
 
